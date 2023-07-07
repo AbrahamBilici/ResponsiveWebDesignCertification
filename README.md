@@ -1,4 +1,4 @@
-# This Repository is about My 'Responsive Web Design' Certification Projects
+# Responsive Web Design Certification Projects
 
 This repository showcases my projects for the 'Responsive Web Design' certification. You can view my certification [here.](https://www.freecodecamp.org/certification/AbrahamBilici/responsive-web-design)
 
